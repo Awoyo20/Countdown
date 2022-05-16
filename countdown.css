@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.body{
+    background: #f6f6f6;
+}
+
+.write{
+    text-align: center;
+    position: absolute;
+    background:;
+    width: 100%;
+    height: 100vh;
+}
+
+.image{
+    align-content: center;
+    padding-left: 100px;
+}
+.image2{
+    max-width: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+
+
+
+.countdown-container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    background: #ddd;
+    border: 1px solid #999;
+    padding: 10px;
+    box-shadow: 0 0 5px 3px #ccc;
+}
+.info{
+    font-size: 80px;
+}
