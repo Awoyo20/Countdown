@@ -31,4 +31,4 @@ function countdown(){
 }
 countdown();
 
-alert("What is your Name")
+alert("What is your Name");

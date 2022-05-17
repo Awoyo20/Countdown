@@ -4,8 +4,23 @@
     border: 0;
 }
 
-
-
+.body{
+    background: cornflowerblue;
+}
+.welcome{
+    text-align: center;
+    margin-top: 60px;
+}
+.africa{
+    text-align: center;
+    margin-top: 80px;
+    color: #ddd; 
+}
+.watch{
+    text-align: center;
+    margin-top: 100px;
+    color: red;
+}
 .countdown-container{
     position: absolute;
     top: 50%;
